@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bongani Mashiane 👋
 
-<!--
-**bongani-mashiane/bongani-mashiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Johannesburg, Gauteng  
+🎓 BCom Business Informatics — UNISA (Final Year, 2026)  
+💼 Seeking: Junior Business Analyst | Data Analyst | Operations
 
-Here are some ideas to get you started:
+## What I do
+I analyse business processes, gather requirements, and translate 
+operational challenges into structured solutions. Background in 
+banking, retail, and systems analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+`Business Analysis` `Systems Analysis` `SQL` `Data Analysis`  
+`Excel` `Requirements Gathering` `Process Mapping`
+
+## Projects
+🔗 Coming soon — check back shortly
+
+## Contact
+📧 travor.mashiane@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/bongani-mashiane-631011375)
