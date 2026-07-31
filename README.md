@@ -1,7 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bongani-mashiane&color=1F4E79&style=flat-square&label=Profile+Views)
 # Hi, I'm Bongani Mashiane 👋
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F4E79?style=flat-square&logo=linkedin)
-](https://linkedin.com/in/bongani-mashiane-631011375) [
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-333?style=flat-square&logo=github)
 ](https://github.com/bongani-mashiane) [
 ![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail)
