@@ -49,7 +49,7 @@ my technical skills in the real world.
 | Business Process Map | Capitec client onboarding process mapped and analysed | draw.io, Word | 🔄 Coming Soon |
 | SQL Database Project | Inventory management system design and queries | SQL, ERD | 🔄 Coming Soon |
 | Systems Analysis Case Study | Full BA deliverable for a logistics SME | Word, diagrams | 🔄 Coming Soon |
-| Public Sector Data Report | Youth unemployment analysis using StatsSA data | Excel, Word | 🔄 Coming Soon |
+| [SA Youth Unemployment Analysis](https://github.com/bongani-mashiane/sa-youth-unemployment-analysis) | Policy briefing on SA youth unemployment trends 2015–2024 | Excel, Google Sheets, Word | ✅ Complete |
 
 ---
 
